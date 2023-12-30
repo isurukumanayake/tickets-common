@@ -2,7 +2,7 @@
   "name": "@ik1tickets/common",
   "version": "1.0.2",
   "description": "",
-  "main": "./buld/index.js",
+  "main": "./build/index.js",
   "types": "./build/index.d.ts",
   "files": [
     "build/**/*"

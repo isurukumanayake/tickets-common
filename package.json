@@ -1,6 +1,6 @@
 {
   "name": "@ik1tickets/common",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "./buld/index.js",
   "types": "./build/index.d.ts",
